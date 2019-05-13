@@ -2,7 +2,7 @@
 Sample code to kickstart django projects
 
 <ul>
-  <li> Authentication is set up <li>
+  <li> Authentication is set up </li>
   <li> Templates are loaded </li>
   <li> Static files loaded </li>
   <li> App urls file created </li>
