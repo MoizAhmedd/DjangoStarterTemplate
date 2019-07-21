@@ -17,6 +17,7 @@ Sample code to kickstart django projects
 
 # Commands to run(when in project directory)
 ```
+py manage.py makemigrations
 py manage.py migrate
 py manage.py createsuperuser
 py manage.py runserver
