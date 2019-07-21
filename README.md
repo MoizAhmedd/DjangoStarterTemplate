@@ -13,6 +13,7 @@ Sample code to kickstart django projects
   <li> Change app and project names </li>
   <li> Change app name in settings.py to your desired app name </li>
   <li> Change templates, static files </li>
+  <li> Change DB to DB of choice </li>
 </ul>
 
 # Commands to run(when in project directory)
